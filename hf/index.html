@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF Logo with Text and Button</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height">
+    <title>SAPSUII...</title>
     <style>
         
         .container {
@@ -32,6 +32,7 @@
         .text-container {
             display: flex;
             flex-direction: column;
+            width:70% ;
         }
 
        
@@ -67,6 +68,18 @@
 
         .btn:hover {
             background-color: #45a049; /* Hover color */
+        }
+         @media (max-width: 768px) {
+        .container {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            }
+        
+
+        .container img {
+            margin: 0 0 20px 0;
+            }
         }
     </style>
 </head>
