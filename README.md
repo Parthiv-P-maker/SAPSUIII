@@ -49,8 +49,8 @@ https://drive.google.com/file/d/18cF5ziLrXRZPdXUIxSzXMwATu3ZUQaGB/view
 
 ## Team Contributions
 - [Sivananana J P]: [CSS ]
-- [PARTHIV p]: [javascript ]
-- [Akash A ]}: [html]
+- [PARTHIV P]: [javascript ]
+- [Akash A S]}: [html]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
