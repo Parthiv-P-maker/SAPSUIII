@@ -29,11 +29,8 @@ For Software:
 - PHOTO EDITOR , VIDEO EDITOR 
 
 ### Implementation
-For Software:
+For Software:https://techy-ui.github.io/SAPSUII/
 
-
-### Project Documentation
-For Software:
 
 # SCREENSHOTS
 ![FRONT PAGE JPEG](https://github.com/user-attachments/assets/b90456de-416a-4a90-b2e1-937d54c60eb3)
@@ -41,24 +38,6 @@ For Software:
 ![PROFILE PIC JPEG](https://github.com/user-attachments/assets/6692c2ba-4738-4c83-a44d-3494261fa44e
 ![CHATBOX JPEG](https://github.com/user-attachments/assets/7e70c4ac-d1cb-4bca-9e0f-817276f06987)
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
