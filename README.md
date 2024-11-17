@@ -7,7 +7,7 @@
 ### Team Name: SUIII
 
 Host Link
-  • https://techy- ui.github.io/SAPSUII/
+  • https://techy-ui.github.io/SAPSUII/
 
 
 ### Team Members
